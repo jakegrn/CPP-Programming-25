@@ -1,4 +1,4 @@
-#include "ReadArray.h"
+/* #include "ReadArray.h"
 #include <iostream>
 
 int main()
@@ -9,4 +9,4 @@ int main()
     {
         cout << r1.array[i] << endl;
     }
-}
+} */
